@@ -6,7 +6,7 @@ xbindkeys config for MouseMan+ M-CW47
 Install `xbindkeys` and `xdotool`
 
 ## Configuration
-Search `/home/user/.xbindkeysrc` or if the file doesn't exist create it.
+Search `/home/user/.xbindkeysrc` or, if the file doesn't exist, create it.
 
 Copy and paste
 ```
