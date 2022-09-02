@@ -1,5 +1,5 @@
 # Logitech-MouseMan-M-CW47
-xbindkeys config for MouseMan+ M-CW47
+xbindkeys config for MouseMan+ M-CW47 in Linux
 
 ![MouseMan + M-CW47](mouseman.jpg)
 
